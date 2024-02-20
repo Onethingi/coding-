@@ -7,3 +7,5 @@ if (age > 21){
 else{
   alert("you can't drink")
 }
+
+let arr = [1,2,3,4]
